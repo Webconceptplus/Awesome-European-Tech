@@ -281,6 +281,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 
 ### Mail Providers
 - [Disroot](https://disroot.org/en/services/email) 🇳🇱 - Privacy-focused email with open-source tools.
+- [eclipso Mail Europe](https://www.eclipso.eu/) 🇩🇪 - German email provider with focus on privacy.
 - [Mailbox.org](https://mailbox.org/) 🇩🇪 - Secure email with ad-free productivity suites.
 - [Mailfence](https://www.mailfence.com/) 🇧🇪 - Encrypted email and document collaboration.
 - [Mailo](https://www.mailo.com/) 🇫🇷 - French mail provider with ethical focus.
